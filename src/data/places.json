@@ -1,0 +1,50 @@
+[
+  {
+    "id": "1",
+    "name": "Hauptbühne",
+    "description": "Die große Bühne für alle Hauptevents und Konzerte. Zentral auf der Festwiese gelegen.",
+    "lat": 51.5074,
+    "lng": -0.1278,
+    "category": "Bühnen"
+  },
+  {
+    "id": "2",
+    "name": "Festzelt",
+    "description": "Überdachtes Zelt mit Sitzplätzen für bis zu 500 Personen. Perfekt bei jedem Wetter.",
+    "lat": 51.5084,
+    "lng": -0.1288,
+    "category": "Locations"
+  },
+  {
+    "id": "3",
+    "name": "Foodtruck-Allee",
+    "description": "Vielfältige Essensauswahl von 10 verschiedenen Foodtrucks. Von Burger bis Vegan.",
+    "lat": 51.5094,
+    "lng": -0.1298,
+    "category": "Gastronomie"
+  },
+  {
+    "id": "4",
+    "name": "Biergarten",
+    "description": "Gemütlicher Biergarten unter alten Kastanien. Traditionelle Küche und kühle Getränke.",
+    "lat": 51.5064,
+    "lng": -0.1268,
+    "category": "Gastronomie"
+  },
+  {
+    "id": "5",
+    "name": "Spielplatz",
+    "description": "Kinderspielplatz mit Klettergerüst, Schaukeln und Sandkasten. Beaufsichtigt während Kinderprogramm.",
+    "lat": 51.5054,
+    "lng": -0.1258,
+    "category": "Familie"
+  },
+  {
+    "id": "6",
+    "name": "Parkplatz P1",
+    "description": "Hauptparkplatz mit 200 Stellplätzen. Nur 5 Minuten Fußweg zum Festgelände.",
+    "lat": 51.5044,
+    "lng": -0.1248,
+    "category": "Service"
+  }
+]

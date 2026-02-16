@@ -133,4 +133,3 @@ Empfohlenes Tool: [RealFaviconGenerator](https://realfavicongenerator.net/)
 ## Lizenz
 
 MIT
-# RutenBuddy

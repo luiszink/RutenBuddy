@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "title": "Eröffnungsfeier",
+    "location": "Hauptbühne",
+    "day": "Freitag",
+    "startTime": "18:00",
+    "endTime": "19:00",
+    "tags": ["Eröffnung", "Offiziell"],
+    "description": "Offizielle Eröffnung des Heimatfests mit Bürgermeister und Festrede"
+  },
+  {
+    "id": "2",
+    "title": "Live-Band: Die Dorfrockstars",
+    "location": "Hauptbühne",
+    "day": "Freitag",
+    "startTime": "19:30",
+    "endTime": "21:30",
+    "tags": ["Musik", "Live"],
+    "description": "Rockige Klänge von der beliebtesten Lokalband"
+  },
+  {
+    "id": "3",
+    "title": "Feuerwerk-Show",
+    "location": "Festwiese",
+    "day": "Freitag",
+    "startTime": "22:00",
+    "endTime": "22:30",
+    "tags": ["Feuerwerk", "Highlight"],
+    "description": "Spektakuläres Feuerwerk über der Festwiese"
+  },
+  {
+    "id": "4",
+    "title": "DJ Night",
+    "location": "Festzelt",
+    "day": "Freitag",
+    "startTime": "23:00",
+    "endTime": "03:00",
+    "tags": ["Party", "DJ"],
+    "description": "Tanzen bis in die Morgenstunden mit DJ Mike"
+  },
+  {
+    "id": "5",
+    "title": "Mitternachtssnack",
+    "location": "Foodtruck-Allee",
+    "day": "Freitag",
+    "startTime": "00:00",
+    "endTime": "02:00",
+    "tags": ["Essen", "Nightlife"],
+    "description": "Leckere Burger, Pommes und mehr für Nachtschwärmer"
+  },
+  {
+    "id": "6",
+    "title": "Frühstücksmarkt",
+    "location": "Marktplatz",
+    "day": "Samstag",
+    "startTime": "09:00",
+    "endTime": "12:00",
+    "tags": ["Essen", "Markt"],
+    "description": "Regionale Spezialitäten und frisches Frühstück"
+  },
+  {
+    "id": "7",
+    "title": "Kinderprogramm",
+    "location": "Spielplatz",
+    "day": "Samstag",
+    "startTime": "10:00",
+    "endTime": "13:00",
+    "tags": ["Kinder", "Familie"],
+    "description": "Basteln, Spiele und Spaß für die Kleinen"
+  },
+  {
+    "id": "8",
+    "title": "Traditioneller Umzug",
+    "location": "Hauptstraße",
+    "day": "Samstag",
+    "startTime": "14:00",
+    "endTime": "16:00",
+    "tags": ["Tradition", "Umzug", "Highlight"],
+    "description": "Festumzug mit allen Vereinen und bunten Wagen"
+  },
+  {
+    "id": "9",
+    "title": "Blasmusik Live",
+    "location": "Biergarten",
+    "day": "Samstag",
+    "startTime": "16:30",
+    "endTime": "18:30",
+    "tags": ["Musik", "Tradition"],
+    "description": "Zünftige Blasmusik von der örtlichen Kapelle"
+  },
+  {
+    "id": "10",
+    "title": "Abschlussparty",
+    "location": "Hauptbühne",
+    "day": "Samstag",
+    "startTime": "20:00",
+    "endTime": "02:00",
+    "tags": ["Party", "Abschluss", "Live"],
+    "description": "Großes Finale mit Live-Musik und Tanz"
+  }
+]
